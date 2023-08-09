@@ -1,0 +1,25 @@
+hr {
+    border-style: none;
+    border-top: dotted;
+    border-width: 5px;
+    border-color: #3541e7;
+    width: 60px;
+}
+body {
+    background-color:  #66BFBF; font-size: medium;
+}
+h1,h3 {
+    color: #66BFBF;
+
+    
+   
+}
+.table:hover {
+    background-color: green;
+
+}
+img {
+    width: 7rem;
+     height: 10rem; 
+     border-radius: 50rem;
+}
